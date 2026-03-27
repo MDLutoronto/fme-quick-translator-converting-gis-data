@@ -4,6 +4,9 @@ layout: "home"
 description: "FME (File Manipulation Engine) is a powerful software package that allows users to quickly convert spatial and non-spatial datasets into other formats to facilitate sharing and interoperability. One of its components, FME Quick Translator, is an easy-to-use utility that provides a straightforward translation workflow via a simple graphical user interface. This guide demonstrates how to use FME Universal Translator to convert geospatial data from one format to another using an older file format (ArcInfo Coverage, .e00) as an example."
 staff:
     - name: Jordan Hale
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
 created_date: 2016-04-26
 permalink: "/"  #! Remove this if not the homepage
 ---
