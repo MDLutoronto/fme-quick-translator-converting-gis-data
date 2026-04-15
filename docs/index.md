@@ -32,3 +32,5 @@ FME (File Manipulation Engine) is a powerful software package that allows users 
 You can use FME Quick Translator to batch convert multiple datasets of the same format. Copy them all to the same directory, then select the appropriate files by holding down the Ctrl key when selecting the dataset to translate. You can also use FME to transform your data from one coordinate system to another – click the … button next to the Coordinate System dropdown menu in the Writer section of the window to select from a list of geographic and projected coordinate systems.
 
  [converting-gis-data-using-fme-quick-translator.pdf](https://mdl.library.utoronto.ca/sites/default/public/converting-gis-data-using-fme-quick-translator.pdf)
+
+Technique: [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats) | Tools: [FME](https://mdlutoronto.github.io/tutorials-search/?tool=FME) | Data Format: [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
