@@ -33,4 +33,4 @@ You can use FME Quick Translator to batch convert multiple datasets of the same 
 
  [converting-gis-data-using-fme-quick-translator.pdf](https://mdl.library.utoronto.ca/sites/default/public/converting-gis-data-using-fme-quick-translator.pdf)
 
-Technique: [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats) | Tools: [FME](https://mdlutoronto.github.io/tutorials-search/?tool=FME) | Data Format: [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
+**Technique:** [Converting data formats](https://mdlutoronto.github.io/tutorials-search/?technique=Converting+data+formats) \| **Tools:** [FME](https://mdlutoronto.github.io/tutorials-search/?tool=FME) \| **Data Format:** [Raster](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Raster), [Vector](https://mdlutoronto.github.io/tutorials-search/?dataFormat=Vector)
